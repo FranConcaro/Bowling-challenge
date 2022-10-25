@@ -1,0 +1,1 @@
+frame\t \t 1\t \t 2\t \t 3\t \t 4\t \t 5\t \t 6\t \t 7\t \t 8\t \t 9\t \t 10\nCarl\nPinfalls\t \t X\t \t X\t \t X\t \t X\t \t X\t \t X\t \t X\t \t X\t \t X\t X\t X\t X\nScore\t \t 30 \t \t 60 \t \t 90 \t \t 120\t\t 150\t\t 180\t\t 210\t\t 240\t\t 270\t\t 300\n
